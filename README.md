@@ -10,7 +10,7 @@ Dans ce projet de création d'une application de voyages, nous avons d'abord cr�
 
 Ensuite, lors du TP2, nous avons créé un frontend avec React qui permet à un utilisateur de naviguer à travers des pages d'accueil (avec affichage détaillé des destinations et des avis sur chaque destination), une page de connexion, une page d'inscription et une page pour créer et modifier des voyages et des étapes de voyages. Nous avons aussi une page Administrateur, accessible seulement par ceux qui ont le Role Admin, qui permet de créer, modifier et supprimer des destinations, ainsi que de supprimer les infos sur des pays.
 
-![Image](images\Capture_d’écran_2026-09-04_214024.png)
+![Image](images/Capture_d’écran_2026-09-04_214024.png)
 
 ## Comment activer l'application
 
