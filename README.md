@@ -73,7 +73,7 @@ En frontend :
 - Affichage des destinations filtrées par continent.
 - Calcul de la note moyenne des avis laissés par les utilsateurs.
 
-![Image](images\Capture_d’écran_2026-09-04_215011.png)
+![Image](images/Capture_d’écran_2026-09-04_215011.png)
 
 ## Liste des routes implémentées :
 
