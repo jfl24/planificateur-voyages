@@ -83,3 +83,12 @@ En frontend :
 - destinations
 - api/pays
 - avis
+
+## Mes contributions au projet
+Dans le cadre de cette collaboration à 3 personnes, j'étais principalement responsable de :
+- Modélisation en collaboration de la base de données et écriture du schéma Prisma
+- Gestion des destinations en backend (routes et controller) et en frontend (vues et composants React)
+- Gestion des pays en backend (routes, controller, et appel de l'API externe) et en frontend (vues et composants React)
+- Révision de code des collègues et troubleshooting
+
+#### Dépôt d'origine de l'équipe : [https://github.com/CoursServicesWeb/planificateur-voyages.git](https://github.com/CoursServicesWeb/planificateur-voyages.git)
